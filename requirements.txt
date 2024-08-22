@@ -1,0 +1,4 @@
+import/install sqlite3
+import/install hashlib
+
+the code is pretty straightforward 
